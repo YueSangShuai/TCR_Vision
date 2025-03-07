@@ -1,0 +1,3 @@
+/home/yuesang/Project/CLionProjects/Toauto_aimHK/build/CMakeFiles/Toauto_aimHK.dir
+/home/yuesang/Project/CLionProjects/Toauto_aimHK/build/CMakeFiles/edit_cache.dir
+/home/yuesang/Project/CLionProjects/Toauto_aimHK/build/CMakeFiles/rebuild_cache.dir
